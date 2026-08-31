@@ -1,0 +1,11 @@
+torch==2.2.2
+torch-geometric
+torchdiffeq
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+shap
+openpyxl
+jupyter

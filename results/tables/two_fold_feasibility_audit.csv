@@ -1,0 +1,23 @@
+Patient,Fold,Train days,Test days,Train windows (raw),Train windows (clean normal),Test windows,Test alerts,VIABLE
+1fbe4,Fold 1,18,18,12,2,12,1,True
+1fbe4,Fold 2,36,18,30,13,12,2,True
+30a32,Fold 1,17,17,11,0,11,3,False
+30a32,Fold 2,34,18,28,0,12,1,False
+55cd4,Fold 1,21,21,15,8,15,0,True
+55cd4,Fold 2,42,21,36,22,15,0,True
+93c14,Fold 1,11,11,5,0,5,1,False
+93c14,Fold 2,22,13,16,0,7,2,False
+96adf,Fold 1,13,13,7,7,7,0,True
+96adf,Fold 2,26,15,20,20,9,1,True
+a2849,Fold 1,15,15,9,1,9,1,True
+a2849,Fold 2,30,17,24,1,11,0,True
+c55f8,Fold 1,25,25,19,10,19,2,True
+c55f8,Fold 2,50,27,44,14,21,3,True
+c5785,Fold 1,18,18,12,2,12,1,True
+c5785,Fold 2,36,18,30,11,12,1,True
+d7a46,Fold 1,3,3,0,0,0,0,False
+d7a46,Fold 2,6,4,0,0,0,0,False
+e2472,Fold 1,6,6,0,0,0,0,False
+e2472,Fold 2,12,7,6,5,1,0,True
+ec812,Fold 1,25,25,19,14,19,1,True
+ec812,Fold 2,50,26,44,25,20,0,True

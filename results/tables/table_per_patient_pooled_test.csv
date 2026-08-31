@@ -1,0 +1,8 @@
+Patient,Test windows,Positive endpoint alerts,PCA AUROC,PCA AUPRC,OmniAnomaly AUROC,T-VAE AUROC
+1fbe4,8,0,Not defined,Not defined,Not defined,Not defined
+55cd4,10,0,Not defined,Not defined,Not defined,Not defined
+96adf,5,1,0.5,0.3333,1.0,0.5
+a2849,6,0,Not defined,Not defined,Not defined,Not defined
+c55f8,14,3,0.5758,0.5119,0.6061,0.6061
+c5785,8,0,Not defined,Not defined,Not defined,Not defined
+ec812,13,0,Not defined,Not defined,Not defined,Not defined

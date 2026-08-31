@@ -1,0 +1,23 @@
+Fold,Patient,Test windows,Positive endpoint alerts,Included
+Fold 1,1fbe4,12,1,True
+Fold 1,30a32,0,0,False
+Fold 1,55cd4,15,0,True
+Fold 1,93c14,0,0,False
+Fold 1,96adf,7,0,True
+Fold 1,a2849,9,1,True
+Fold 1,c55f8,19,2,True
+Fold 1,c5785,12,1,True
+Fold 1,d7a46,0,0,False
+Fold 1,e2472,0,0,False
+Fold 1,ec812,19,1,True
+Fold 2,1fbe4,12,2,True
+Fold 2,30a32,0,0,False
+Fold 2,55cd4,15,0,True
+Fold 2,93c14,0,0,False
+Fold 2,96adf,9,1,True
+Fold 2,a2849,11,0,True
+Fold 2,c55f8,21,3,True
+Fold 2,c5785,12,1,True
+Fold 2,d7a46,0,0,False
+Fold 2,e2472,1,0,True
+Fold 2,ec812,20,0,True

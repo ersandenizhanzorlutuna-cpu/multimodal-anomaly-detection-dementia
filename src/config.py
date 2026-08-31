@@ -1,0 +1,19 @@
+"""
+Configuration and hyperparameters.
+Multimodal Anomaly Detection for Dementia Remote Monitoring
+"""
+HIDDEN_DIM = 32
+LATENT_DIM = 12
+SEQ_LEN = 7
+N_FEATURES = 22
+MODALITY_DIMS = [8, 8, 6]
+N_EPOCHS = 100
+LEARNING_RATE = 1e-3
+BETA = 1.0
+N_SEEDS = 10
+PCA_VARIANCE_THRESHOLD = 0.90
+IF_N_ESTIMATORS = 100
+IF_CONTAMINATION = 'auto'
+CALIBRATION_DAYS = 14
+MIN_STD = 1.0
+CASE_STUDY_PATIENT = '16f4b'
